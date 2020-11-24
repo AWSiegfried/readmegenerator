@@ -1,4 +1,4 @@
-# **a**
+# **README GENERATOR**
 ![License](https://img.shields.io/badge/MIT-license-purple)
 
 ## **Table of Contents**
