@@ -20,13 +20,13 @@ The purpose of this assignment was to write code to generate a ReadMe file using
 ## **Installation**
 
 1. Clone the repo
-\`\`\`sh
+```sh
 git clone https://github.com/${data.github}/${data.title}.git
-\`\`\` 
+``` 
 2. Install NPM packages
-\`\`\`sh
+```sh
 npm install
-\`\`\`
+```
 
 ## **Usage**
 
